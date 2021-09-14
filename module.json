@@ -2,7 +2,7 @@
     "name": "wancr-warmage",
     "title": "WANCR Warmage",
     "description": "Warmage Class for D&D 5e by Mage Hand Press. Available Subclasses: House of Knights.",
-    "version": "1.0.1",
+    "version": "1.0.2",
     "author": "TastyPig#0764",
     "minimumCoreVersion": "0.8.6",
     "compatibleCoreVersion": "0.8.9",
@@ -17,6 +17,12 @@
             "name": "warmage-tricks",
             "label": "Warmage Tricks",
             "path": "./packs/warmage-tricks.db",
+            "entity": "Item"
+        },
+        {
+            "name": "warmage-spells",
+            "label": "Warmage Spells",
+            "path": "./packs/warmage-spells.db",
             "entity": "Item"
         }
     ],
